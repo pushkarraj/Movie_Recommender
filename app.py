@@ -1,7 +1,6 @@
 '''
 Author: PUSHKAR RAJ
-Email: entbappy73@gmail.com
-Date: 2021-Nov-15
+Email: pushkar.raj6@gmail.com
 '''
 
 import pickle
