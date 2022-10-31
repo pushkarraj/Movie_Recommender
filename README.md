@@ -67,9 +67,9 @@ streamlit run app.py
 
 
 ```bash
-Author: Bappy Ahmed
+Author: Pushkar Raj
 Data Scientist
-Email: entbappy73@gmail.com
+Email: pushkar.raj6@gmail.com
 
 ```
 
